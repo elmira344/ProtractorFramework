@@ -32,7 +32,7 @@ describe('DropDown Demo',function() {
    Calc(3,5,"DIVISION");
    Calc(3,5,"DIVISION");
    Calc(10,6,"ADDITION");
-
+   Calc(10,6,"ADDITION");
 
     //
 
